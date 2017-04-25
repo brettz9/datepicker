@@ -1,0 +1,35 @@
+{
+  "name": "datepicker",
+  "version": "1.0.0",
+  "description": "Simple JS datepicker",
+  "main": "datepicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettz9/datepicker.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-node": "4.2.2",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-standard": "3.0.1"
+  },
+  "engines": {},
+  "keywords": [
+    "date",
+    "datepicker",
+    "time"
+  ],
+  "author": "Brett Zamir",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brettz9/datepicker/issues"
+  },
+  "homepage": "https://github.com/brettz9/datepicker#readme"
+}
